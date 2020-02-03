@@ -21,3 +21,6 @@ Netlify has made this easy. If you click the deploy button below, it will guide 
 ## What is Saved?
 
 The value is saved as an HMTL string.
+
+## Contributors
+Originally contributed by [@hzik](https://github.com/hzik/)
