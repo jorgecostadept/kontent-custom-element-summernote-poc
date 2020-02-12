@@ -1,5 +1,4 @@
-# Summernote Rich Text Editor Custom Element for Kentico Kontent
-
+# Summernote Rich Text Editor
 This is a [custom element](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrating-your-own-content-editing-features) for [Kentico Kontent](https://kontent.ai) that allows users to use the [Summernote rich text editor](https://summernote.org/).
 
 ![Screenshot of custom element](SummernoteRichTextEditor.gif)
@@ -16,11 +15,9 @@ This is a [custom element](https://docs.kontent.ai/tutorials/develop-apps/integr
 
 Netlify has made this easy. If you click the deploy button below, it will guide you through the process of deploying it to Netlify and leave you with a copy of the repository in your GitHub account as well.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Kentico/kontent-custom-element-summernote)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hzik/kontent-custom-element-summernote)
 
 ## What is Saved?
 
 The value is saved as an HMTL string.
 
-## Contributors
-Originally contributed by [@hzik](https://github.com/hzik/)
